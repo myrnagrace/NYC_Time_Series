@@ -43,7 +43,7 @@ We chose the auto arima to help us tune the parameters for our SARIMA models for
 
 When getting our model results for next 3 years for our models for our top Zip Codes forecasted that zip codes 11226, 11211, 11219, 11692, 11217, 11203 are forecasted to increase. Our chosen model  metrics explained variance is used reflect the variance of the whole data. We use this metric to measure the variability of the predictions in our SARIMA models which finds the difference between expected value and predicted value. Our model must have at least have a 60% of explained variance. The average explained variance for these zipcodes are ~95%-99% meaning we are confident models predicted well for these zip codes. 
 
-When choosing our zip codes we chose the zip codes with the highest return on investment for the next 5 years with the percentages given below.
+When choosing our zip codes we chose the zip codes with the highest return on investment for the next 3 years with the percentages given below.
 
 - 11226: Flatbush, Brooklyn (ROI 1.28%)
 - 11211: Williamsburg, Brooklyn (ROI 1.02%)
