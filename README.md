@@ -1,6 +1,6 @@
 # New York City Time Series
 
-<img src='images/ny.jpeg'>
+<img src='images/ny.jpg'>
 
 ## Overview
 
