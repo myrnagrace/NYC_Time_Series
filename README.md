@@ -45,12 +45,12 @@ When getting our model results for next 5 years for our models for our top Zip C
 
 When choosing our zip codes we chose the zip codes with the highest return on investment for the next 5 years with the percentages given below.
 
-- 11226: Flatbush, Brooklyn (ROI 128%)
-- 11211: Williamsburg, Brooklyn (ROI 102%)
-- 11219: Borough Park, Brooklyn (ROI 78%)
-- 11692: Arverne: Queens (ROI 78%)
-- 11217: Downtown Brooklyn, Brooklyn (ROI 71%)
-- 11203: East Flatbush, Brooklyn (ROI 70%)
+- 11226: Flatbush, Brooklyn (ROI 1.28%)
+- 11211: Williamsburg, Brooklyn (ROI 1.02%)
+- 11219: Borough Park, Brooklyn (ROI .78%)
+- 11692: Arverne: Queens (ROI .78%)
+- 11217: Downtown Brooklyn, Brooklyn (ROI .71%)
+- 11203: East Flatbush, Brooklyn (ROI .70%)
 
 We recommend investing in boroughs such as Brooklyn and Queens since they are known residential boroughs.
 
